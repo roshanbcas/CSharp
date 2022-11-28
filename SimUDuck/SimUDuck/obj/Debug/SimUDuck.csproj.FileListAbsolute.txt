@@ -1,0 +1,6 @@
+H:\Roshan\CSharp\SimUDuck\SimUDuck\bin\Debug\SimUDuck.exe.config
+H:\Roshan\CSharp\SimUDuck\SimUDuck\bin\Debug\SimUDuck.exe
+H:\Roshan\CSharp\SimUDuck\SimUDuck\bin\Debug\SimUDuck.pdb
+H:\Roshan\CSharp\SimUDuck\SimUDuck\obj\Debug\SimUDuck.csprojResolveAssemblyReference.cache
+H:\Roshan\CSharp\SimUDuck\SimUDuck\obj\Debug\SimUDuck.exe
+H:\Roshan\CSharp\SimUDuck\SimUDuck\obj\Debug\SimUDuck.pdb
